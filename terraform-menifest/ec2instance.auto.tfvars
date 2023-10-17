@@ -1,4 +1,4 @@
 # EC2 Instance Variables
 instance_type          = "t2.micro"
-instance_keypair       = "hm-key-pair"
+instance_keypair       = "hm-keypair"
 private_instance_count = 2
